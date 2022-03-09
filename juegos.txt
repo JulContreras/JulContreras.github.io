@@ -1,0 +1,4 @@
+Id,Nombre,Fecha lanzamiento,Descripcion,Valor inicial,Empresa
+0,League of legends,10/02/2002,lolsito,10000,Riot
+1,Valorant,20/05/2005,Valo,20000,Riot
+2,Paladins,30/09/2012,Pala,3000,Hi-rez
