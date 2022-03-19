@@ -1,0 +1,32 @@
+{
+    "ID": [
+        0,
+        1,
+        2
+    ],
+    "Nombre": [
+        "League of legends",
+        "Valorant",
+        "Paladins"
+    ],
+    "Fecha_lanzamiento": [
+        "10/02/2002",
+        "10/02/2003",
+        "10/02/2004"
+    ],
+    "Descripcion": [
+        "lolsito",
+        "Valorancito",
+        "Pala"
+    ],
+    "Valor_inicial": [
+        10000,
+        20000,
+        30000
+    ],
+    "Empresa": [
+        "Riot",
+        "Riot",
+        "Hi-rez"
+    ]
+}
