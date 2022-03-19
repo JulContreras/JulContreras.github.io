@@ -1,0 +1,34 @@
+[
+    {
+        "ID": 0,
+        "nombre": "League of Legends",
+        "Fecha_lanzamiento": "10/02/2002",
+        "Descripcion": "lolsito",
+        "Valor_inicial": 10000,
+        "Empresa": "Riot"
+    },
+    {
+        "ID": 1,
+        "nombre": "Valorant",
+        "Fecha_lanzamiento": "10/02/2003",
+        "Descripcion": "Valorancito",
+        "Valor_inicial": 20000,
+        "Empresa": "Riot"
+    },
+    {
+        "ID": 2,
+        "nombre": "Paladins",
+        "Fecha_lanzamiento": "10/02/2004",
+        "Descripcion": "Pala",
+        "Valor_inicial": 30000,
+        "Empresa": "Hi-rez"
+    },
+    {
+        "ID": 3,
+        "nombre": "GTA V",
+        "Fecha_lanzamiento": "10/02/2005",
+        "Descripcion": "uwu",
+        "Valor_inicial": 40000,
+        "Empresa": "RockStar Games"
+    }
+]
